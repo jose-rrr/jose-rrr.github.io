@@ -1,3 +1,8 @@
+---
+layout: post
+title: lock out team task
+---
+
 ifconfig
 found the netmask to narrow down the number of computers on that network
 Sudo nmap -O 10.0.140.3/22 
