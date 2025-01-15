@@ -1,6 +1,6 @@
 ---
-layout:post
-title: lock out team task
+layout: post
+title: lockout team task
 ---
 
 ifconfig
