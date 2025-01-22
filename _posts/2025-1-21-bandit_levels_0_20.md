@@ -1,5 +1,8 @@
 
-
+---
+layout: post
+title: bandit levels 0-20
+---
 
 
 Level 0: must type SSH into the terminal to use the bandit environment
